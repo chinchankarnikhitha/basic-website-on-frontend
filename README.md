@@ -1,0 +1,10 @@
+Basic html tags implementations
+![Screenshot 2024-08-03 110741](https://github.com/user-attachments/assets/108a2e3b-5be1-40c9-b9c5-cb40e4aaa584)
+![Screenshot 2024-08-03 110754](https://github.com/user-attachments/assets/e1a8d1ee-73d2-4710-8da8-dba5cb2dd3ec)
+![Screenshot 2024-08-03 110819](https://github.com/user-attachments/assets/834f97b4-3754-4683-9045-06eba33891f7)
+![Screenshot 2024-08-03 110834](https://github.com/user-attachments/assets/17b2b48b-bbef-44da-b5d7-c8d74c6c9844)
+![Screenshot 2024-08-03 110853](https://github.com/user-attachments/assets/84dc586e-b6bf-45b9-aec4-81dc8869eb06)
+![Screenshot 2024-08-03 110916](https://github.com/user-attachments/assets/66079ab3-b181-4f4d-91f0-a4e82d8d4318)
+![Screenshot 2024-08-03 110957](https://github.com/user-attachments/assets/cdfd9d8d-7431-4c6b-8ccc-637c603b9bbb)
+![Screenshot 2024-08-03 111026](https://github.com/user-attachments/assets/7dfa8eaa-002e-482c-b6c6-5f0922722ec9)
+![Screenshot 2024-08-03 111047](https://github.com/user-attachments/assets/bdae434e-533a-4e99-8e64-4831e8f25886)
